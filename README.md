@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hexge
 - 👀 I’m interested in web & mobile development
 - 🌱 I’m currently learning web & mobile app frameworks
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source frameworks
 - 📫 How to reach me
 
 <!---
