@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @hexge
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web frameworks
-- 💞️ I’m looking to collaborate on open source frameworks
-- 📫 How to reach me: GitHub
+check my website at hexge.github.io
 
 <!---
 hexge/hexge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
